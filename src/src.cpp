@@ -2,6 +2,6 @@
 namespace XmakeTest
 {
     void foo(){
-        std::cout << "version 0.1" << std::endl;
+        std::cout << "version 0.2" << std::endl;
     }
 } // namespace XmakeTest
