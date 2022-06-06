@@ -1,0 +1,4 @@
+namespace XmakeTest
+{
+    
+} // namespace XmakeTest
